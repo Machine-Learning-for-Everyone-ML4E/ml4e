@@ -3,7 +3,7 @@ name: PyPI Deployment
 on:
   push:
     branches:
-      - main  # Adjust this to match your main branch name
+      - production  # Adjust this to match your main branch name
 
 jobs:
   deploy:
