@@ -1,9 +1,7 @@
 name: PyPI-Test Deployment
 
 on:
-  push:
-    branches:
-      - main  # Adjust this to match your main branch name
+  release:
 
 jobs:
   deploy:
