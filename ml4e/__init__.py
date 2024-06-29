@@ -3,3 +3,4 @@ import ml4e.plotters
 import ml4e.splitters
 import ml4e.datasets
 import ml4e.models
+import ml4e.feat
